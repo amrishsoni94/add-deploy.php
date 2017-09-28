@@ -1,0 +1,2 @@
+# add-deploy.php
+bitbucket
